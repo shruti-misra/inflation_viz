@@ -1,0 +1,181 @@
+﻿Year,Inflation,Measure,Value,Recession,Recession2,Recession_Type
+1977,6.501683995,Unemployment Rate,7.05,0,0,  
+1977,6.501683995,Wage Change Rate,10.49171,0,0,  
+1977,6.501683995,Mortage,8.84,0,0,  
+1977,6.501683995,WTI Crude Oil,13.05523,0,0,  
+1978,7.630963839,Unemployment Rate,6.066666667,0,0,  
+1978,7.630963839,Wage Change Rate,12.71595,0,0,  
+1978,7.630963839,Mortage,9.63,0,0,  
+1978,7.630963839,WTI Crude Oil,3.87642,0,0,  
+1979,11.25447113,Unemployment Rate,5.85,0,0,  
+1979,11.25447113,Wage Change Rate,11.84585,0,0,  
+1979,11.25447113,Mortage,11.19,0,0,  
+1979,11.25447113,WTI Crude Oil,50.86981,0,0,  
+1980,13.54920197,Unemployment Rate,7.175,80,-60,The Double-Dip Recession
+1980,13.54920197,Wage Change Rate,9.58324,80,-60,The Double-Dip Recession
+1980,13.54920197,Mortage,13.74,80,-60,The Double-Dip Recession
+1980,13.54920197,WTI Crude Oil,66.82165,80,-60,The Double-Dip Recession
+1981,10.33471534,Unemployment Rate,7.616666667,80,-60,The Double-Dip Recession
+1981,10.33471534,Wage Change Rate,10.04423,80,-60,The Double-Dip Recession
+1981,10.33471534,Mortage,16.64,80,-60,The Double-Dip Recession
+1981,10.33471534,WTI Crude Oil,-1.89521,80,-60,The Double-Dip Recession
+1982,6.131427,Unemployment Rate,9.708333333,80,-60,The Double-Dip Recession
+1982,6.131427,Wage Change Rate,5.03791,80,-60,The Double-Dip Recession
+1982,6.131427,Mortage,16.04,80,-60,The Double-Dip Recession
+1982,6.131427,WTI Crude Oil,-8.26591,80,-60,The Double-Dip Recession
+1983,3.212435233,Unemployment Rate,9.6,0,0,  
+1983,3.212435233,Wage Change Rate,5.66923,0,0,  
+1983,3.212435233,Mortage,13.24,0,0,  
+1983,3.212435233,WTI Crude Oil,-9.63506,0,0,  
+1984,4.300535475,Unemployment Rate,7.508333333,0,0,  
+1984,4.300535475,Wage Change Rate,9.97953,0,0,  
+1984,4.300535475,Mortage,13.88,0,0,  
+1984,4.300535475,WTI Crude Oil,-3.68317,0,0,  
+1985,3.545644152,Unemployment Rate,7.191666667,0,0,  
+1985,3.545644152,Wage Change Rate,7.4592,0,0,  
+1985,3.545644152,Mortage,12.46,0,0,  
+1985,3.545644152,WTI Crude Oil,-4.44997,0,0,  
+1986,1.898047722,Unemployment Rate,7,0,0,  
+1986,1.898047722,Wage Change Rate,6.04149,0,0,  
+1986,1.898047722,Mortage,10.19,0,0,  
+1986,1.898047722,WTI Crude Oil,-46.23339,0,0,  
+1987,3.664563218,Unemployment Rate,6.175,0,0,  
+1987,3.664563218,Wage Change Rate,7.32327,0,0,  
+1987,3.664563218,Mortage,10.21,0,0,  
+1987,3.664563218,WTI Crude Oil,27.40636,0,0,  
+1988,4.077741107,Unemployment Rate,5.491666667,0,0,  
+1988,4.077741107,Wage Change Rate,8.13361,0,0,  
+1988,4.077741107,Mortage,10.34,0,0,  
+1988,4.077741107,WTI Crude Oil,-16.71197,0,0,  
+1989,4.82700303,Unemployment Rate,5.258333333,0,0,  
+1989,4.82700303,Wage Change Rate,5.8714,0,0,  
+1989,4.82700303,Mortage,10.32,0,0,  
+1989,4.82700303,WTI Crude Oil,22.75279,0,0,  
+1990,5.39795644,Unemployment Rate,5.616666667,80,-60,Early 1990s Recession
+1990,5.39795644,Wage Change Rate,6.12295,80,-60,Early 1990s Recession
+1990,5.39795644,Mortage,10.13,80,-60,Early 1990s Recession
+1990,5.39795644,WTI Crude Oil,25.02233,80,-60,Early 1990s Recession
+1991,4.234963965,Unemployment Rate,6.85,80,-60,Early 1990s Recession
+1991,4.234963965,Wage Change Rate,2.6728,80,-60,Early 1990s Recession
+1991,4.234963965,Mortage,9.25,80,-60,Early 1990s Recession
+1991,4.234963965,WTI Crude Oil,-12.29607,80,-60,Early 1990s Recession
+1992,3.028819678,Unemployment Rate,7.491666667,0,0,  
+1992,3.028819678,Wage Change Rate,5.3681,0,0,  
+1992,3.028819678,Mortage,8.39,0,0,  
+1992,3.028819678,WTI Crude Oil,-4.28203,0,0,  
+1993,2.951656966,Unemployment Rate,6.908333333,0,0,  
+1993,2.951656966,Wage Change Rate,3.83712,0,0,  
+1993,2.951656966,Mortage,7.31,0,0,  
+1993,2.951656966,WTI Crude Oil,-10.22911,0,0,  
+1994,2.607441592,Unemployment Rate,6.1,0,0,  
+1994,2.607441592,Wage Change Rate,5.10688,0,0,  
+1994,2.607441592,Mortage,8.38,0,0,  
+1994,2.607441592,WTI Crude Oil,-6.89306,0,0,  
+1995,2.805419689,Unemployment Rate,5.591666667,0,0,  
+1995,2.805419689,Wage Change Rate,5.60516,0,0,  
+1995,2.805419689,Mortage,7.93,0,0,  
+1995,2.805419689,WTI Crude Oil,7.22494,0,0,  
+1996,2.9312042,Unemployment Rate,5.408333333,0,0,  
+1996,2.9312042,Wage Change Rate,5.80624,0,0,  
+1996,2.9312042,Mortage,7.81,0,0,  
+1996,2.9312042,WTI Crude Oil,20.2234,0,0,  
+1997,2.337689937,Unemployment Rate,4.941666667,0,0,  
+1997,2.337689937,Wage Change Rate,7.19946,0,0,  
+1997,2.337689937,Mortage,7.6,0,0,  
+1997,2.337689937,WTI Crude Oil,-7.019,0,0,  
+1998,1.552279099,Unemployment Rate,4.5,0,0,  
+1998,1.552279099,Wage Change Rate,7.86143,0,0,  
+1998,1.552279099,Mortage,6.94,0,0,  
+1998,1.552279099,WTI Crude Oil,-30.1509,0,0,  
+1999,2.188027197,Unemployment Rate,4.216666667,0,0,  
+1999,2.188027197,Wage Change Rate,6.60749,0,0,  
+1999,2.188027197,Mortage,7.44,0,0,  
+1999,2.188027197,WTI Crude Oil,33.80053,0,0,  
+2000,3.376857271,Unemployment Rate,3.966666667,0,0,  
+2000,3.376857271,Wage Change Rate,8.23329,0,0,  
+2000,3.376857271,Mortage,8.05,0,0,  
+2000,3.376857271,WTI Crude Oil,57.38031,0,0,  
+2001,2.826171119,Unemployment Rate,4.741666667,80,-60,The Dot Com Bust
+2001,2.826171119,Wage Change Rate,2.66704,80,-60,The Dot Com Bust
+2001,2.826171119,Mortage,6.97,80,-60,The Dot Com Bust
+2001,2.826171119,WTI Crude Oil,-14.43699,80,-60,The Dot Com Bust
+2002,1.586031627,Unemployment Rate,5.783333333,0,0,  
+2002,1.586031627,Wage Change Rate,0.85224,0,0,  
+2002,1.586031627,Mortage,6.54,0,0,  
+2002,1.586031627,WTI Crude Oil,0.66862,0,0,  
+2003,2.270094973,Unemployment Rate,5.991666667,0,0,  
+2003,2.270094973,Wage Change Rate,2.8507,0,0,  
+2003,2.270094973,Mortage,5.83,0,0,  
+2003,2.270094973,WTI Crude Oil,19.32177,0,0,  
+2004,2.677236693,Unemployment Rate,5.541666667,0,0,  
+2004,2.677236693,Wage Change Rate,5.50299,0,0,  
+2004,2.677236693,Mortage,5.84,0,0,  
+2004,2.677236693,WTI Crude Oil,33.07108,0,0,  
+2005,3.392746845,Unemployment Rate,5.083333333,0,0,  
+2005,3.392746845,Wage Change Rate,4.98722,0,0,  
+2005,3.392746845,Mortage,5.87,0,0,  
+2005,3.392746845,WTI Crude Oil,36.26473,0,0,  
+2006,3.225944101,Unemployment Rate,4.608333333,0,0,  
+2006,3.225944101,Wage Change Rate,6.4195,0,0,  
+2006,3.225944101,Mortage,6.41,0,0,  
+2006,3.225944101,WTI Crude Oil,17.06784,0,0,  
+2007,2.852672482,Unemployment Rate,4.616666667,80,-60,s
+2007,2.852672482,Wage Change Rate,5.60766,80,-60,The Great Recession
+2007,2.852672482,Mortage,6.34,80,-60,The Great Recession
+2007,2.852672482,WTI Crude Oil,9.46876,80,-60,The Great Recession
+2008,3.839100297,Unemployment Rate,5.8,80,-60,The Great Recession
+2008,3.839100297,Wage Change Rate,2.15291,80,-60,The Great Recession
+2008,3.839100297,Mortage,6.01,80,-60,The Great Recession
+2008,3.839100297,WTI Crude Oil,37.59544,80,-60,The Great Recession
+2009,-0.355546266,Unemployment Rate,9.283333333,80,-60,The Great Recession
+2009,-0.355546266,Wage Change Rate,-4.36148,80,-60,The Great Recession
+2009,-0.355546266,Mortage,5.04,80,-60,The Great Recession
+2009,-0.355546266,WTI Crude Oil,-38.03868,80,-60,The Great Recession
+2010,1.640043442,Unemployment Rate,9.608333333,0,0,  
+2010,1.640043442,Wage Change Rate,1.97482,0,0,  
+2010,1.640043442,Mortage,4.69,0,0,  
+2010,1.640043442,WTI Crude Oil,28.74568,0,0,  
+2011,3.156841569,Unemployment Rate,8.933333333,0,0,  
+2011,3.156841569,Wage Change Rate,3.98064,0,0,  
+2011,3.156841569,Mortage,4.45,0,0,  
+2011,3.156841569,WTI Crude Oil,19.70245,0,0,  
+2012,2.069337265,Unemployment Rate,8.075,0,0,  
+2012,2.069337265,Wage Change Rate,4.55667,0,0,  
+2012,2.069337265,Mortage,3.66,0,0,  
+2012,2.069337265,WTI Crude Oil,-0.92119,0,0,  
+2013,1.464832656,Unemployment Rate,7.358333333,0,0,  
+2013,1.464832656,Wage Change Rate,2.68303,0,0,  
+2013,1.464832656,Mortage,3.98,0,0,  
+2013,1.464832656,WTI Crude Oil,3.96493,0,0,  
+2014,1.622222977,Unemployment Rate,6.158333333,0,0,  
+2014,1.622222977,Wage Change Rate,5.09301,0,0,  
+2014,1.622222977,Mortage,4.17,0,0,  
+2014,1.622222977,WTI Crude Oil,-4.77609,0,0,  
+2015,0.118627136,Unemployment Rate,5.275,0,0,  
+2015,0.118627136,Wage Change Rate,5.12507,0,0,  
+2015,0.118627136,Mortage,3.85,0,0,  
+2015,0.118627136,WTI Crude Oil,-47.79198,0,0,  
+2016,1.261583206,Unemployment Rate,4.875,0,0,  
+2016,1.261583206,Wage Change Rate,2.94888,0,0,  
+2016,1.261583206,Mortage,3.65,0,0,  
+2016,1.261583206,WTI Crude Oil,-11.38705,0,0,  
+2017,2.130110004,Unemployment Rate,4.358333333,0,0,  
+2017,2.130110004,Wage Change Rate,4.73897,0,0,  
+2017,2.130110004,Mortage,3.99,0,0,  
+2017,2.130110004,WTI Crude Oil,17.93985,0,0,  
+2018,2.442583297,Unemployment Rate,3.891666667,0,0,  
+2018,2.442583297,Wage Change Rate,5.02476,0,0,  
+2018,2.442583297,Mortage,4.54,0,0,  
+2018,2.442583297,WTI Crude Oil,27.61992,0,0,  
+2019,1.812210075,Unemployment Rate,3.675,0,0,  
+2019,1.812210075,Wage Change Rate,4.75272,0,0,  
+2019,1.812210075,Mortage,3.94,0,0,  
+2019,1.812210075,WTI Crude Oil,-12.2488,0,0,  
+2020,1.233584396,Unemployment Rate,8.091666667,80,-60,COVID-19 Pandemic
+2020,1.233584396,Wage Change Rate,1.29305,80,-60,COVID-19 Pandemic
+2020,1.233584396,Mortage,3.11,80,-60,COVID-19 Pandemic
+2020,1.233584396,WTI Crude Oil,-31.1607,80,-60,COVID-19 Pandemic
+2021,4.697858864,Unemployment Rate,5.358333333,0,0,  
+2021,4.697858864,Wage Change Rate,9.35002,0,0,  
+2021,4.697858864,Mortage,2.96,0,0,  
+2021,4.697858864,WTI Crude Oil,73.31591,0,0,  
