@@ -77,4 +77,4 @@ Once the data was decided the work was split into data wrangling (Mai), applicat
 
 ## Deployment Link
 
-This repo is deployed at: http://cse512-22sp.pages.cs.washington.edu/Poor-Grads
+This repo is deployed at: https://shruti-misra.github.io/inflation_viz/
